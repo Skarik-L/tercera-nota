@@ -1,7 +1,7 @@
 
 package unidad1;
 
-public class App {
+public class Retiro_mensual {
     public static void main(String[] args) throws Exception {
         
         int CantidadInicial = 1000;

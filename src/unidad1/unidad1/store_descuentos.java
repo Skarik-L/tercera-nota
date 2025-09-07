@@ -1,4 +1,6 @@
-public class App {
+package unidad1;
+
+public class store_descuentos {
     public static void main(String[] args) throws Exception {
 
         // declaración de variables
@@ -24,4 +26,3 @@ public class App {
         System.out.println("El precio para dos camisetas y un pantalón es de: $" + total2);
     }
 }
-
