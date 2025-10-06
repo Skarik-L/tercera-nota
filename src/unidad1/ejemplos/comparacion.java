@@ -1,4 +1,4 @@
-package Ejemplos;
+package Unidad1.Ejemplos;
 
 public class comparacion {
     public static void main(String[] args) {

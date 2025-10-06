@@ -1,4 +1,4 @@
-package ejemplos;
+package Unidad1.Ejemplos;
 
 public class ejemplo
 {
@@ -16,3 +16,5 @@ public class ejemplo
         System.out.println("Is the Course Active? " + isCourseActive);
     }
 }
+
+

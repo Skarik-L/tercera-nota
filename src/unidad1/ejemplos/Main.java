@@ -1,3 +1,4 @@
+package Unidad1.Ejemplos;
 import java.util.Scanner;
 
 public class Main
@@ -8,5 +9,7 @@ public class Main
         int numero = scanner.nextInt();
         int resultado = numero + 10;
         System.out.println("El resultado es: " + resultado);
+
+        scanner.close();
     }
 }
